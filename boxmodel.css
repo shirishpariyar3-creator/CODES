@@ -1,0 +1,21 @@
+div{
+    width: 350px;
+    
+    border: 1px solid rgb(78, 80, 78);
+    padding: 1px 15px;
+    background-color: white;
+    margin: 0px 50px;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+
+
+}
+#paragraph-one{
+    font-size: 30px;
+}
+#paragraph-two{
+    motion: reverse;
+}

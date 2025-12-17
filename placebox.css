@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-size: 16px;
+}
+
+.container {
+    /* border: 1px solid red;*/
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.item {
+    /*border: 1px solid blue;*/
+    width: 100px;
+    height: 100px;
+
+
+
+}
+
+.logo {
+    /* border: 2px solid purple;*/
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+
+}
+
+button {
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    background-color: teal;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  
+
+}
+
+.menu-links {
+    /* border: 2px solid green;*/
+    display: flex;
+    gap: 20px;
+    padding: 350px;
+}
+
+.bottons {
+    /* border: 2px solid orange;*/
+    gap: 50px;
+    display: flex;
+    
+}
+
+main {
+    height: 75vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*  border: 1px solid green;*/
+
+
+
+}
+
+footer {
+    /* border: 1px solid yellowgreen;*/
+    height: 20vh;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-links {
+    display: flex;
+    list-style: none;
+    color: white;
+    display: flex;
+    gap: 5rem;
+
+}
+
+.footer-links .link {
+    font-size: 1.2rem;
+}
+
+.footer-desc {
+    color: white;
+    font-size: 1.2rem;
+    /*border: 1px solid brown;*/
+}
+
+.footer-desc span {
+    color: white;
+}
+
+.icon-group {
+    display: flex;
+    gap: 3rem;
+}
+
+.icon {
+    color: grey;
+    font-size: 2rem;
+}
+
+.container-icon {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}

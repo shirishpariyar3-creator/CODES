@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+    background-color: azure;
+    font-size: 69;
+ 
+   
+}
+p span{
+    color: green;
+    font-size: 69px;
+
+}
+h1 span{
+    font: size 99px; ;
+}
+a{
+    color: blueviolet;
+    font-size: 20px;
+}
+span{
+    color: navy;
+    font-size: 90px;
+}
+.head-1{
+    color: blue;
+
+}
+.head-2{
+    color: brown;
+}
+.head-3{
+    color: red;
+}
+#paragraph-one{
+    font-size: 34px;
+
+}
+#paragraph-two{
+    font-size: 99px;
+
+}
+#paragraph-three{
+    font-size: 89px;
+}
+#paragraph-fourth{
+    font-size: 59px;
+}

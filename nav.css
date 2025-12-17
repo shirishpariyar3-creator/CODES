@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: border-box;
+}
+
+.ships {
+    width: 100vw;
+    height: 15vh;
+    display: flex;
+    justify-content: space-around;
+}
+.page{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.owl{
+  /*  border: 1px solid green;*/
+
+}
